@@ -14,10 +14,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sankalp-sharma156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-sharma156" height="25" width="35" /></a>
-<a href="https://instagram.com/sankalpsharma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpsharma._" height="25" width="35" /></a>
-  <a href="https://open.spotify.com/user/sankalp0501" target="blank">
+<a href="https://linkedin.com/in/sankalp-sharma156" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-sharma156" height="25" width="35" /></a>
+<a href="https://instagram.com/sankalpsharma._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpsharma._" height="25" width="35" /></a>
+  <a href="https://open.spotify.com/user/sankalp0501" target="_blank">
   <img align="center" alt="Sankalp's Spotify" height="25" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+</p>
+
+<p>
+  Checkout my Photography on Unsplash!
+ <a href="https://unsplash.com/@sankalp156" target="_blank"> 
+  <img align="center" alt="Sankalp's Unsplash" height="70" width="100" src="https://64.media.tumblr.com/tumblr_lkh6zlGG8I1qhj0ljo1_500.gif" />
 </a>
 </p>
 
