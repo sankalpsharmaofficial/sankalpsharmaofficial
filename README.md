@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sankalp Sharma</h1>
-<h3 align="center">A passionate Frontend Developer! 👨🏻‍💻</h3>
+<h3 align="center">A passionate Frontend Developer, Photographer! 👨🏻‍💻📸</h3>
 
 <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 
@@ -21,12 +21,33 @@
 </a>
 </p>
 
-<p>
-  Checkout my Photography on Unsplash!
+</br>
+</br>
+
+### Checkout my Photography on Unsplash! 👇🏻
+  
+  </br>
+  
  <a href="https://unsplash.com/@sankalp156" target="_blank"> 
-  <img align="center" alt="Sankalp's Unsplash" height="70" width="100" src="https://64.media.tumblr.com/tumblr_lkh6zlGG8I1qhj0ljo1_500.gif" />
+  <img align="left" alt="Sankalp's Unsplash" width="500" height="300" src="https://cdn.dribbble.com/users/3022/screenshots/14356865/media/092a05064f6627dfebeb4e28c27f921f.gif" />
 </a>
-</p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 **languages and tools:**  
 
