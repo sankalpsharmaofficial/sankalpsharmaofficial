@@ -4,6 +4,9 @@
 
 <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 
+
+
+
 - 👀 I’m interested in **Frontend technologies**
 
 - 🌱 I’m currently learning **React Native and Redux implementations in a project**
@@ -23,6 +26,11 @@
 
 </br>
 </br>
+</br>
+
+### I am currently listening to
+
+[![Spotify](https://novatorem-sandy-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/sankalp0501)
 
 ### Checkout my Photography on Unsplash! 👇🏻
   
@@ -45,8 +53,7 @@
 </br>
 </br>
 </br>
-</br>
-</br>
+
 
 
 **languages and tools:**  
