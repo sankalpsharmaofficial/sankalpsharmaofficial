@@ -22,6 +22,9 @@
   <a href="https://open.spotify.com/user/sankalp0501" target="_blank">
   <img align="center" alt="Sankalp's Spotify" height="25" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+  <a href="https://music.apple.com/in/listen-now" target="_blank">
+  <img align="center" alt="Sankalp's Apple Music" height="25" width="35" src="https://github.com/troy351/iOS10-SVG-ICONS/blob/gh-pages/images/icon/Music.svg" />
+</a>
 </p>
 
 </br>
