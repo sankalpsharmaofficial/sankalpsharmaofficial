@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/sankalp-sharma156" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-sharma156" height="25" width="35" /></a>
 <a href="https://instagram.com/sankalpsharma._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpsharma._" height="25" width="35" /></a>
   <a href="https://open.spotify.com/user/sankalp0501" target="_blank">
-  <img align="center" alt="Sankalp's Spotify" height="35" width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
+  <img align="center" alt="Sankalp's Spotify" height="25" width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
 </a>
   <a href="https://music.apple.com/in/listen-now" target="_blank">
   <img align="center" alt="Sankalp's Apple Music" height="25" width="35" src="https://github.com/troy351/iOS10-SVG-ICONS/blob/gh-pages/images/icon/Music.svg" />
