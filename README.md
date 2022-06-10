@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sankalp Sharma</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate Frontend Developer, Photographer! 👨🏻‍💻📸</h3>
 
 <img align="right" alt="Coding" width="500" height="400" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
